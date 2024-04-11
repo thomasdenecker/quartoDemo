@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/thomasdenecker/quartoDemo/compare/v1.2.0...v1.2.1) (2024-04-11)
+
+
+### Bug Fixes
+
+* typo ([8888f43](https://github.com/thomasdenecker/quartoDemo/commit/8888f43eeabe28e88ba15901d95f1b2e79fb1049))
+
 ## [1.2.0](https://github.com/thomasdenecker/quartoDemo/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
