@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/thomasdenecker/quartoDemo/compare/v1.4.0...v1.5.0) (2024-04-11)
+
+
+### Features
+
+* add doi in README.md ([5557cb3](https://github.com/thomasdenecker/quartoDemo/commit/5557cb3f66390c6eac8541cbe9d05541a713b387))
+
 ## [1.4.0](https://github.com/thomasdenecker/quartoDemo/compare/v1.3.0...v1.4.0) (2024-04-11)
 
 
