@@ -15,3 +15,9 @@ If you use Matbot API project, please cite us :
 thomasdenecker, Quarto demo, (2024), GitHub repository, https://github.com/thomasdenecker/quartoDemo
 
 or used [citation file](CITATION.cff).
+
+## Licence
+
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+Quartor Demo is licensed under a [The 3-Clause BSD License License](https://opensource.org/license/bsd-3-clause/).
