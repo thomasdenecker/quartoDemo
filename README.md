@@ -1,5 +1,7 @@
 # Quarto demo
 
+[![DOI](https://zenodo.org/badge/785148507.svg)](https://zenodo.org/doi/10.5281/zenodo.10960728)
+
 ## Website
 
 https://thomasdenecker.github.io/quartoDemo/
