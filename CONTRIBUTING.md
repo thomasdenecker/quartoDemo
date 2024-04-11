@@ -145,7 +145,7 @@ git commit -m "feat: add new API endpoint"
 
 - **build** : Builds - changes that affect the build system or external dependencies
 - **chores** : Chores - updating grunt tasks etc; no production code change
-- **ci** : Continous Integration - chanhes to our CI configuration files and scripts
+- **ci** : Continous Integration - changes to our CI configuration files and scripts
 - **docs** : Documentation - changes to the documentation
 - **feat** : Features - new feature for the user, not a new feature for build script
 - **fix** : Bug fixes - bug fix for the user, not a fix to a build script
