@@ -1,0 +1,4 @@
+/.quarto/
+deseq2_demo.tsv
+.ipynb_checkpoints/
+_freeze/
